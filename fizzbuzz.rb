@@ -7,5 +7,5 @@ def fizzbuzz(a)
     puts "fizz"
  end
 end
-fizzbuzz(3)
+fizzbuzz(4)
 
